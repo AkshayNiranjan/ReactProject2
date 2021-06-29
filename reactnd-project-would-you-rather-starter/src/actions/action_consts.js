@@ -1,0 +1,7 @@
+//questions
+const GET_ALL_QUESTIONS = 'GET_ALL_QUESTIONS';
+const GET_ANSWER = 'GET_ANSWER';
+const GET_QUESTION = 'GET_QUESTION';
+//users
+const SET_USER = "SET_USER";
+const GET_USERS = "GET_USERS";
